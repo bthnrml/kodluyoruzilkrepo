@@ -28,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### [patika linki](https://app.patika.dev/bthnrml)
